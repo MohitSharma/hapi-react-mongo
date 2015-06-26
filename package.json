@@ -1,0 +1,32 @@
+{
+  "name": "tasks",
+  "version": "1.0.0",
+  "description": "Personal Task System",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "boom": "^2.6.1",
+    "bootstrap": "^3.3.4",
+    "catbox-mongodb": "^1.1.0",
+    "config": "^1.12.0",
+    "glue": "^2.1.0",
+    "good": "^5.1.2",
+    "good-console": "^4.1.0",
+    "hapi": "^8.6.1",
+    "hapi-auth-basic": "^2.0.0",
+    "hapi-mongo-models": "^2.1.2",
+    "hapi-mongoose-db-connector": "^2.0.1",
+    "hapi-router": "^2.1.0",
+    "hoek": "^2.11.1",
+    "joi": "^6.0.8",
+    "mongodb": "^2.0.25",
+    "mongoose": "^4.0.0",
+    "object-assign": "^2.0.0",
+    "yar": "^3.0.3"
+  },
+  "devDependencies": {}
+}
